@@ -3,6 +3,21 @@ body {
   background-color: #2aaae277;
 }
 
+.top-menu {
+  list-style: none;
+  padding: 1em;
+}
+
+.top-menu li {
+  text-decoration: none;
+  color: inherit;
+}
+
+.top-menu a {
+  text-decoration: none;
+  color: inherit;
+}
+
 .logo img {
   margin: 16px;
   max-width: calc(100% - 32px);
