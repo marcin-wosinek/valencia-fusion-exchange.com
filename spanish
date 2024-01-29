@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Valencia Fusion Exchange</title>
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png" />
+    <link
+      rel="apple-touch-icon"
+      sizes="114x114"
+      href="/apple-icon-114x114.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="120x120"
+      href="/apple-icon-120x120.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="144x144"
+      href="/apple-icon-144x144.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="152x152"
+      href="/apple-icon-152x152.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/apple-icon-180x180.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="192x192"
+      href="/android-icon-192x192.png"
+    />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
+    <meta name="theme-color" content="#ffffff" />
+  </head>
+  <body>
+    <div class="card">
+      <div class="logo">
+        <img src="./assets/logo.jpg" />
+      </div>
+      <div class="copy">
+        <h1 id="valencia-fusion-exchange">Valencia Fusion Exchange</h1>
+
+        <h3>12—14 april 2024</h3>
+
+        <ul>
+          <li>Location: Valencia, Spain</li>
+          <li>
+            Venue: Escuela de Ruzafa: beautiful dance venue in the city center,
+          </li>
+          <li>Dance weekend with 3 fusion parties at night</li>
+          <li>Daytime activities on Saturday and Sunday</li>
+          <li>3 open level dance classes</li>
+        </ul>
+
+        <p>
+          We're excited to present a weekend full of dance, rhythm, connection
+          and flow… Join us in one of the most vibrant fusion dance communities
+          in Southern Europe.
+        </p>
+
+        <p>
+          If you come from far away, you will be able to enjoy both the dance
+          and a wonderful tourist destination: Valencia. You will find here lots
+          of sun, beautiful beaches, great cuisine, and a vibrant city center
+          full of culture. You will meet other travelers exploring the city as
+          well as many locals happy to recommend places worth visiting.
+        </p>
+
+        <p>
+          For people from the local community, it will be a great opportunity to
+          meet fusion dancers from elsewhere and experience first-hand how the
+          dance is interpreted elsewhere. You’ll be able to dance to the music
+          played by DJs we don’t often have the chance to hear. This setting and
+          occasion will make for a wonderful experience, one that will connect
+          you to the broader fusion community.
+        </p>
+
+        <p>
+          We’ll all enjoy a unique chance to connect through dance, meet new
+          people, and experience new things. Join us, and make the magic happen!
+        </p>
+
+        <h2 id="program">Program</h2>
+
+        <p>
+          Exact program to be announced, but expect at least the following
+          offerings:
+        </p>
+
+        <ul>
+          <li>
+            3 night parties from at least from 20h until midnight, on Friday,
+            Saturday, and Sunday
+          </li>
+          <li>3 open level dance classes</li>
+          <li>
+            2 daytime activities: we will meet at a park or a beach to have a
+            picnic and dance during the day
+          </li>
+        </ul>
+
+        <h2 id="venue">Venue</h2>
+        <p>
+          La Escuela de Ruzafa, a beautiful space near the center of Valencia at
+          <a href="https://maps.app.goo.gl/H1hLoKTABmdSrVmXA">Calle Denia 32</a
+          >. We will have a dance floor with a capacity of 100 people and a bar
+          to take a break from the dance.
+        </p>
+
+        <h2 id="what-is-fusion">What is fusion?</h2>
+
+        <p>
+          Fusion is a dance style focused on connection and interpreting the
+          music together. We dance to a huge variety of music: sometimes music
+          associated with a particular dance style, sometimes electronic music,
+          sometimes hip-hop, and sometimes something entirely
+          different—depending on the DJ.
+        </p>
+
+        <p>
+          There are dancers coming with very different backgrounds: from blues,
+          kizomba, zouk, tango, or contact improvisation. Each dance is
+          different, and you can always expect to see something new.
+        </p>
+
+        <p>
+          It’s a great dance for beginners as well: you don’t need experience in
+          dancing. You can attend without anxiety and connect to the music as
+          well as your partner—and dance as you feel. Besides that, we will have
+          open level classes to help you start.
+        </p>
+
+        <h2 id="tickets">Tickets</h2>
+
+        <ul>
+          <li>
+            <b>Early bird: €50</b>
+            <br />
+            40 tickets; on sale from the 4th until the 17th of March or until
+            they run out
+          </li>
+          <li>
+            <b>Normal tickets: €60</b>
+            <br />
+            40 tickets; on sale after Early Bird until the end of March, or
+            until they run out
+          </li>
+          <li>
+            <b> Late tickets: €70 </b><br />
+            On sale after Normal tickets
+          </li>
+        </ul>
+
+        <h2 id="logistics">Logistics</h2>
+
+        <p>Traveling to Valencia for the event? Below are some quick tips.</p>
+
+        <h3>Accommodations</h3>
+        <p>
+          The event will be in the center of Valencia—a major tourist
+          destination in Spain. There is a wide range of accommodations
+          available nearby—check your usual sources—there should be something
+          for any budget. We will provide a WhatsApp group for participants to
+          connect with others who are looking to share accommodations.
+        </p>
+
+        <h3>Transport</h3>
+        <p>
+          Valencia is a transportation hub: it has a well-connected airport and
+          fast trains from Madrid and Barcelona. For participants traveling by
+          car, we will provide a WhatsApp group to connect for ride-sharing.
+        </p>
+
+        <h2 id="pre-registration">Pre-registration</h2>
+
+        <p>
+          Can’t wait to come to the event? Sign up here to get updates with a
+          final program, start of ticket sales, and future events.
+        </p>
+
+        <script
+          async
+          data-uid="1482429285"
+          src="https://acroyoga-club-valencia.ck.page/1482429285/index.js"
+        ></script>
+
+        <h2 id="contact">Contact</h2>
+
+        <p>
+          Got any questions, suggestions, or want to collaborate? Contact Marcin
+          Wosinek at
+          <a href="mailto:marcin.wosinek@gmail.com">marcin.wosinek@gmail.com</a
+          >, or by WhatsApp at +34 608 73 92 32.
+        </p>
+
+        <h2 id="code-of-conduct">Code of conduct</h2>
+        <p>
+          Respect each other and be aware that everyone has a different
+          perception of limits: better err on the side of being too polite and
+          too respectful. Please talk to each other: ask for permission and tell
+          people if they do something you are not OK with.
+        </p>
+
+        <p>
+          If someone is repeatedly disrespecting your limits, please talk to the
+          <b>care team</b> or the organizers.
+        </p>
+
+        <ul>
+          <li>
+            Don't assume what role you’ll take in the dance; whether you lead,
+            follow, or switch is up to you and your partner.
+          </li>
+          <li>
+            <Check in with your partner about what kind of dance they would
+            like, including whether they feel comfortable with close embraces or
+            being dipped./li>
+          </li>
+          <li>
+            Welcome everyone, embracing queerness and all types of bodies.t
+          </li>
+          <li>
+            If you don’t want to dance with someone—just decline. You don’t have
+            to provide justification nor promise a dance later.
+          </li>
+          <li>
+            You are welcome to ask anyone to dance. Be comfortable hearing no
+            from time to time.
+          </li>
+          <li>
+            If someone repeatedly declines to dance with you—take a hint, and
+            stop asking them.
+          </li>
+        </ul>
+
+        <p>
+          In case anything uncomfortable happens to you, or you witness anything
+          that concerns you, please get in contact with your care team or the
+          organizers.
+        </p>
+
+        <p>
+          <b>Note!</b> If you have ever been banned from any dance community or
+          event, please contact the organizer before purchasing your ticket. We
+          want to make sure everybody feels safe—and we would need to
+          double-check if we can have you at the event. Failure to notify us can
+          result in your being banned from the event.
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
