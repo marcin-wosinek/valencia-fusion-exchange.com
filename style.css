@@ -11,8 +11,13 @@ body {
 .top-menu li {
   text-decoration: none;
   color: inherit;
-  display: inline;
-  margin: 0.5em;
+  display: block;
+  margin: 0.25em;
+  float: left;
+}
+
+.top-menu li.language {
+  float: right;
 }
 
 .top-menu a {
